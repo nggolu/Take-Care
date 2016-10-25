@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/goku/AndroidStudioProjects/SWE_Main/app/build/intermediates/exploded-aar/it.sephiroth.android.library.targettooltip/target-tooltip-library/1.3.11/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="37dad3c4fd7e1ca9be64c2a1cbb21b5b3b3c3ab0">
+        <dex dex="/home/goku/AndroidStudioProjects/SWE_Main/app/build/intermediates/pre-dexed/debug/it.sephiroth.android.library.targettooltip-target-tooltip-library-1.3.11_d02e742114f6cb4073f7efb6bed87f275bae1733.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/goku/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-annotations/2.2.2/285cb9c666f0f0f3dd8a1be04e1f457eb7b15113/jackson-annotations-2.2.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="285cb9c666f0f0f3dd8a1be04e1f457eb7b15113">
+        <dex dex="/home/goku/AndroidStudioProjects/SWE_Main/app/build/intermediates/pre-dexed/debug/jackson-annotations-2.2.2_e360a29d64f62484443484e80f0a88ca37d25a8a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/goku/AndroidStudioProjects/SWE_Main/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/home/goku/AndroidStudioProjects/SWE_Main/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-24.2.1_58ac79f32d9e1a66919ca84420f167475e381eb3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/goku/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/home/goku/AndroidStudioProjects/SWE_Main/app/build/intermediates/pre-dexed/debug/support-annotations-24.2.1_bd9b80d92f403e913b1877415a8b4569cc8a3e88.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/goku/AndroidStudioProjects/SWE_Main/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/9.6.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="0efd1b44f47c134fb245914a1d54a55adbfc2f8d">
+        <dex dex="/home/goku/AndroidStudioProjects/SWE_Main/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-analytics-impl-9.6.1_aaac96d2eedb786583e0dda5028ebf762ef81e6b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/goku/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.2.2/d20be6a5ddd6f8cfd36ebf6dea329873a1c41f1b/jackson-core-2.2.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d20be6a5ddd6f8cfd36ebf6dea329873a1c41f1b">
+        <dex dex="/home/goku/AndroidStudioProjects/SWE_Main/app/build/intermediates/pre-dexed/debug/jackson-core-2.2.2_ae1d8595d2a9546c3bc7db81f9d09c7947e45ae0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/goku/AndroidStudioProjects/SWE_Main/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/home/goku/AndroidStudioProjects/SWE_Main/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-24.2.1_c27c188f4f73a7905aa10b6fe37f2ae31362319c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/goku/AndroidStudioProjects/SWE_Main/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/home/goku/AndroidStudioProjects/SWE_Main/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-24.2.1_73914ce3d2a0e42234884eb21b5d053aa8689e46.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/goku/AndroidStudioProjects/SWE_Main/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database-connection/9.6.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="ac8365c87591065db07f7bac8551504504832cd4">
+        <dex dex="/home/goku/AndroidStudioProjects/SWE_Main/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-database-connection-9.6.1_e63253e74c29d2f63ac894576626bf1c7ce12a37.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/goku/AndroidStudioProjects/SWE_Main/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/home/goku/AndroidStudioProjects/SWE_Main/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_9c0e40c0e173c679c439304605f074093d024196.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/goku/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife/6.1.0/63735f48b82bcd24cdd33821342428252eb1ca5a/butterknife-6.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="63735f48b82bcd24cdd33821342428252eb1ca5a">
+        <dex dex="/home/goku/AndroidStudioProjects/SWE_Main/app/build/intermediates/pre-dexed/debug/butterknife-6.1.0_252b9123b771638f3a03203823a693af6fac3f27.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/goku/AndroidStudioProjects/SWE_Main/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/home/goku/AndroidStudioProjects/SWE_Main/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_ec6446dd3e5cf115f0444fe3635f558e6dc19ed0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/goku/AndroidStudioProjects/SWE_Main/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/home/goku/AndroidStudioProjects/SWE_Main/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_c411724ceee448723d3496e4c933cc7b15f76cc5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/goku/AndroidStudioProjects/SWE_Main/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.6.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="4a36600281a648769411ef642c331851732bf29e">
+        <dex dex="/home/goku/AndroidStudioProjects/SWE_Main/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-tasks-9.6.1_3848e17b120ccb24622ab2b52031af96c5ab64f8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/goku/AndroidStudioProjects/SWE_Main/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.6.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="1e14ebe1cda8491f152083e752ca5bf73cd37bff">
+        <dex dex="/home/goku/AndroidStudioProjects/SWE_Main/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-iid-9.6.1_8412659b4523a43e6014539a314c664843c0ccdd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/goku/AndroidStudioProjects/SWE_Main/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database/9.6.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="b75ecdd04a37d31b4a0da2729fc5c558962a529b">
+        <dex dex="/home/goku/AndroidStudioProjects/SWE_Main/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-database-9.6.1_3699bb88b1c8ff2d54448b9783f1ffc7c91fbfb8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/goku/AndroidStudioProjects/SWE_Main/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/9.6.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="cc39b4bcc9e7062891db90d5a752fa9e4986f447">
+        <dex dex="/home/goku/AndroidStudioProjects/SWE_Main/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-appindexing-9.6.1_6d1c24e1e39a14bf21c745d9672936b474235ced.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/goku/AndroidStudioProjects/SWE_Main/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/home/goku/AndroidStudioProjects/SWE_Main/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-24.2.1_1cbdb1abb7ba336aa084e2ecfbd5e93d60cb1f63.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/goku/AndroidStudioProjects/SWE_Main/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/home/goku/AndroidStudioProjects/SWE_Main/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_ee82c78ac737a02b77d1f3f17e40b266528f5b31.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/goku/AndroidStudioProjects/SWE_Main/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.6.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="af7582c6b327449c6d32518e6a10307860b7b5d6">
+        <dex dex="/home/goku/AndroidStudioProjects/SWE_Main/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-base-9.6.1_6c8ef9b4f39ef730da516ce40a3bb28f98ea2e97.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/goku/AndroidStudioProjects/SWE_Main/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="/home/goku/AndroidStudioProjects/SWE_Main/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-24.2.1_bc981987cd31f63bcaed1d9d0b52e66680a7ad42.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/goku/.gradle/caches/modules-2/files-2.1/com.firebase/firebase-client-jvm/2.5.0/c0af904657634f7ab9cc21e75d80250570033321/firebase-client-jvm-2.5.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="c0af904657634f7ab9cc21e75d80250570033321">
+        <dex dex="/home/goku/AndroidStudioProjects/SWE_Main/app/build/intermediates/pre-dexed/debug/firebase-client-jvm-2.5.0_542aa7a595befbe4585e2057bf1592e2fea274d5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/goku/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-databind/2.2.2/3c8f6018eaa72d43b261181e801e6f8676c16ef6/jackson-databind-2.2.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="3c8f6018eaa72d43b261181e801e6f8676c16ef6">
+        <dex dex="/home/goku/AndroidStudioProjects/SWE_Main/app/build/intermediates/pre-dexed/debug/jackson-databind-2.2.2_8218723922e73d2fc9e0e7291e11a695ba10abe5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/goku/AndroidStudioProjects/SWE_Main/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/home/goku/AndroidStudioProjects/SWE_Main/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-24.2.1_747ecf61c284dcbc508ac9485419581f96a32484.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/goku/AndroidStudioProjects/SWE_Main/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/home/goku/AndroidStudioProjects/SWE_Main/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-24.2.1_1693a9ea22cc95774c53aaf372031af6ebe2e271.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/goku/.gradle/caches/modules-2/files-2.1/com.firebase/firebase-client-android/2.5.0/7d0473896b3b10b23a2f9812fec4316dff8afdd/firebase-client-android-2.5.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="07d0473896b3b10b23a2f9812fec4316dff8afdd">
+        <dex dex="/home/goku/AndroidStudioProjects/SWE_Main/app/build/intermediates/pre-dexed/debug/firebase-client-android-2.5.0_4282cf72a3c48ef3c8c4e7e925bd4018183bb1ef.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/goku/AndroidStudioProjects/SWE_Main/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.6.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="a1c351dc10b92d638da57f3a6513f87cfbdc9f83">
+        <dex dex="/home/goku/AndroidStudioProjects/SWE_Main/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-analytics-9.6.1_a1dfa12c0bbb187a0dd6c26b1ce9b0ad4e08248f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/goku/AndroidStudioProjects/SWE_Main/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="/home/goku/AndroidStudioProjects/SWE_Main/app/build/intermediates/pre-dexed/debug/com.android.support-design-24.2.1_1ecb5217afb6d95cb020d890e424afbf99a32e0e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/goku/AndroidStudioProjects/SWE_Main/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.6.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="eccaaa9ffa6bb4bfbd2e870f01aaf69655d353be">
+        <dex dex="/home/goku/AndroidStudioProjects/SWE_Main/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-9.6.1_360f94de1d638506e985e7e8a5297722cf77669f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/goku/.gradle/caches/modules-2/files-2.1/com.firebase/tubesock/0.0.12/6ec0bbd3e161a73ed672284b587fd32309a86d7a/tubesock-0.0.12.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="6ec0bbd3e161a73ed672284b587fd32309a86d7a">
+        <dex dex="/home/goku/AndroidStudioProjects/SWE_Main/app/build/intermediates/pre-dexed/debug/tubesock-0.0.12_eb1169c2c77b2b50205f2fda74cd9440f8a566f6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/goku/AndroidStudioProjects/SWE_Main/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/home/goku/AndroidStudioProjects/SWE_Main/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-24.2.1_f7b27e26360a66bbc6ae6b1cf080f3063881a7dd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/goku/AndroidStudioProjects/SWE_Main/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/home/goku/AndroidStudioProjects/SWE_Main/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-24.2.1_4a8df1ad7918896e48b6cad69c877e678fddff5b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/goku/AndroidStudioProjects/SWE_Main/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/home/goku/AndroidStudioProjects/SWE_Main/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_da10a4f00205936e76394290f28d366ff960c7bf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/goku/AndroidStudioProjects/SWE_Main/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/goku/AndroidStudioProjects/SWE_Main/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.2.1_38c90e6433021b86bcf3742ea7a4617156c3c084.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/goku/AndroidStudioProjects/SWE_Main/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.6.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="1ef72e72bc0d05602c366582afa9439f58bb31d6">
+        <dex dex="/home/goku/AndroidStudioProjects/SWE_Main/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-common-9.6.1_55b75ded33e507a6abacc94c7a1a5378bfae7505.jar" />
+    </item>
+
+</items>
