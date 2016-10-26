@@ -77,7 +77,7 @@ public class Admin extends AppCompatActivity {
                         String Name = map.get("name");
                         String Password = map.get("password");
 
-                        User user = new User();
+                        //User user = new User();
 
                         System.out.println("heloo ::" + Password + "  " + password);
                         // String value = (String) dataSnapshot.getValue();

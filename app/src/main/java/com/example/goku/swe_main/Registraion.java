@@ -31,7 +31,7 @@ public class Registraion extends AppCompatActivity {
     Button _signupButton;
     @InjectView(R.id.link_login)
     TextView _loginLink;
-    final static String db_url="https://swemain-de53c.firebaseio.com/message/";
+    final static String db_url="https://swemain-de53c.firebaseio.com/username/";
     @Override
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -43,7 +43,7 @@ public class Registraion extends AppCompatActivity {
             @Override
             public void onClick(View v) {
                 //signup();
-                User user = new User();
+                User user = new User(getApplicationContext());
 
                 final String name = _nameText.getText().toString();
                 final String email = _emailText.getText().toString();
@@ -57,6 +57,8 @@ public class Registraion extends AppCompatActivity {
                 String username = email.substring(0,email.indexOf('@'));
                  System.out.println(user.getEmail()+ user.getPassword() +user.getName());
                 fire.child(username).setValue(user);
+                user.setUsername(username);
+
 
                 _nameText.setText("");
                 _emailText.setText("");
@@ -83,6 +85,7 @@ public class Registraion extends AppCompatActivity {
             }
         });
     }
+
 
     public void signup() {
         Log.d(TAG, "Signup");

@@ -1,6 +1,8 @@
 package com.example.goku.swe_main;
 
+import android.content.Context;
 import android.content.Intent;
+import android.content.SharedPreferences;
 import android.util.Log;
 
 import com.firebase.client.DataSnapshot;
@@ -14,13 +16,17 @@ import java.util.Map;
  * Created by goku on 24/10/16.
  */
 
-public class User extends Contacts{
+public class User {
    private String name;
     private String password;
     private String email;
     private String username ;
 
+    SharedPreferences sharedpreferences;
 
+    public User(Context context) {
+        sharedpreferences = context.getSharedPreferences("shared", Context.MODE_PRIVATE);
+    }
 
     public String getPassword() {
         return password;
@@ -35,6 +41,7 @@ public class User extends Contacts{
     }
 
     public void setEmail(String email) {
+        sharedpreferences.edit().putString("email",email);
         this.email = email;
     }
 
@@ -47,11 +54,13 @@ public class User extends Contacts{
     }
 
     public String getUsername() {
-        return username;
+        return sharedpreferences.getString("username",null);
+        //return username;
     }
 
     public void setUsername(String username) {
-        this.username = username;
+        sharedpreferences.edit().putString("username", username).commit();
+        //this.username = username;
     }
 
 

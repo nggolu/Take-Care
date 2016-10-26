@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">SWE_Main</string>
+    <string name="title_activity_danger__zone">Map</string>
 </resources>

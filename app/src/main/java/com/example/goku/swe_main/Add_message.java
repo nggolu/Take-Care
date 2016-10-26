@@ -28,7 +28,7 @@ public class Add_message extends AppCompatActivity {
         add_msg.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                Message msg = new Message();
+                Message msg = new Message(getApplicationContext());
 
                 msg.setInformation_msg(info_msg.getText().toString());
                 msg.setAlert_msg(alert_msg.getText().toString());
@@ -41,10 +41,13 @@ public class Add_message extends AppCompatActivity {
 
                 fire.child(username).setValue(msg);
 
-
+                User user = new User(getApplicationContext());
+                String UserName = user.getName();
+                System.out.println("Username :" +UserName);
                msg.setAlert_msg(alert_msg.getText().toString());
                 msg.setInformation_msg(info_msg.getText().toString());
                 Intent intent1 = new Intent(Add_message.this,Add_contacts.class);
+
                 startActivity(intent1);
             }
 

@@ -8,6 +8,7 @@
     android:paddingBottom="@dimen/activity_vertical_margin"
     android:paddingLeft="@dimen/activity_horizontal_margin"
     android:background="@drawable/blurr"
+    android:scaleType="matrix"
     android:paddingRight="@dimen/activity_horizontal_margin"
     android:paddingTop="@dimen/activity_vertical_margin"
     tools:context="com.example.goku.swe_main.Add_message">
@@ -96,6 +97,7 @@
         android:id="@+id/info_msg"
         android:layout_above="@+id/alert_msg"
         android:layout_toEndOf="@+id/imageView3"
+        android:textColor="@color/white"
         android:layout_marginStart="15dp" />
 
     <EditText android:hint="Alert Message"
@@ -107,6 +109,7 @@
         android:id="@+id/alert_msg"
 
         android:layout_marginTop="40dp"
+        android:textColor="@color/white"
         android:layout_below="@+id/imageView"
         android:layout_toEndOf="@+id/imageView3" />
 
